@@ -1,4 +1,5 @@
 # covid_tracker
+Covid 19 tracker buit with Vue js
 
 ## Project setup
 ```
